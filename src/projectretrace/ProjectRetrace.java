@@ -16,6 +16,7 @@ public class ProjectRetrace {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.println("print for test" );
         new Home().setVisible(true);
     }
     
